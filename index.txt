@@ -1,1 +1,1 @@
-Aplicando conhecimentos de git.
+Aplicando conhecimentos de git, projeto simples mas muito bom para aplicar os conhecimentos adquiridos.
